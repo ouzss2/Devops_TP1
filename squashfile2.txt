@@ -1,0 +1,2 @@
+squashBranch file 2
+squashBranch file 2 agaaaain
